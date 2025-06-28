@@ -77,7 +77,9 @@ Open new terminal and run admin panel
     
 ## Usage
 - Create a new user account and log in.
+- Create an admin account
 - Add products through admin panel.
+  
 
 
 
